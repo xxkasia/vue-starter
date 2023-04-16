@@ -35,3 +35,11 @@
         }
     }
 </script>
+
+<script>
+import "milligram";
+
+export default {
+  // ...
+};
+</script>
